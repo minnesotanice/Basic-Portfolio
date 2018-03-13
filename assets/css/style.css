@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+a {
+
+}
+a:hover {
+
+}
+
+/* HEADING TAGS */
+/* all should be font-family: 'Georgia', Times, Times New Roman, serif; */
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+header {
+    background: #fff;
+}
+#header-wrapper {
+    border-bottom: 2px #ccc solid;
+}
+#header-content {
+    margin: 0 auto;
+    width: 960px;
+}
+#content-wrapper {
+    /* background-image: use recommended from assignment instructions */
+}
+#content {
+    margin: 0 auto;
+    width: 960px;
+}
+#content-title {
+
+}
+article {
+
+}
+footer {
+
+}
+#footer-content {
+    margin: 0 auto;
+    width: 960px;
+}
