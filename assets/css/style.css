@@ -3,7 +3,7 @@ html, body {
   }
 
 body {
-    background-color: rgb(240, 240, 240);
+    background-color: #f0f0f0;
     background-image:url("../images/bg-dust_scratches.png");  
     box-sizing: content-box;
     color: #777;
@@ -103,13 +103,11 @@ nav .separator {
 
 /* CONTENT */
 #content-wrapper {
-    /* margin-bottom: 50px; */
-
     flex: 1 0 auto;
 }
 #content {
     background: #fff;
-    border: 2px solid rgb(240, 240, 240);
+    border: 2px solid #ddd;
     margin: 30px auto;
     min-height: 380px;
     padding: 30px;
@@ -175,7 +173,7 @@ section {
 
 /* FOOTER */
 footer {
-    background: #666666;
+    background: #666;
     border:  solid #4aaaa5;
     border-width: 4px 0 0 0;
     width: 100%;
@@ -183,7 +181,7 @@ footer {
     flex-shrink: 0;
 }
 #footer-content {
-    background: #666666;
+    background: #666;
     color: #fff;
     font-size: 12px;
     line-height: 2.4;
